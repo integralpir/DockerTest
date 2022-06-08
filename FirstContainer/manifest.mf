@@ -1,2 +1,2 @@
 Main-Class: FirstApp
-Class-Path: bin/
+Class-Path: ./bin

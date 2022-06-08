@@ -1,3 +1,3 @@
 FROM openjdk
 WORKDIR /first
-ADD . .
+ADD FirstApp.jar .

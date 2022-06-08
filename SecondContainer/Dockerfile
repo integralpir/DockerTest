@@ -1,3 +1,3 @@
 FROM openjdk
 WORKDIR /second
-ADD . .
+ADD SecondApp.jar .

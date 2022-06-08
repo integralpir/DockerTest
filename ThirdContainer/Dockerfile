@@ -1,3 +1,3 @@
 FROM openjdk
 WORKDIR /third
-ADD . .
+ADD ThirdApp.jar .
