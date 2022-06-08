@@ -1,2 +1,0 @@
-Main-Class: second_container.SecondApp
-Class-Path: D:\Projects\DockerTest\out\production\DockerTest\second_container

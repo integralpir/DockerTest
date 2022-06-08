@@ -1,3 +1,0 @@
-FROM openjdk:latest
-ADD ThirdApp.jar /third_container/
-WORKDIR /third_container/

@@ -1,3 +1,0 @@
-FROM openjdk:latest
-ADD SecondApp.jar /second_container/
-WORKDIR /second_container/

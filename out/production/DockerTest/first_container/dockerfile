@@ -1,5 +1,0 @@
-FROM openjdk
-ADD FirstApp.java .
-RUN javac FirstApp.java
-CMD ["java", "FirstApp"]
-
