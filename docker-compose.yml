@@ -1,0 +1,14 @@
+version: "2.6.0"
+
+services:
+  first_container:
+    build: src/first_container
+    command: ["java", "-jar", "first.first_app.jar"]
+
+  second_container:
+    build: src/second_container
+    command: ["java", "-jar", "second.second_app.jar"]
+
+  third_container:
+    build: src/third_container
+    command: ["java", "-jar", "third.third_app.jar"]

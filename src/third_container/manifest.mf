@@ -1,0 +1,2 @@
+Main-Class: third_container.third_app
+Class-Path: D:\Projects\DockerTest\out\production\DockerTest\third_container
